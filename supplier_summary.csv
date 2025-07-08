@@ -1,0 +1,4 @@
+Supplier,Quantity,Total_Cost,Lead_Time
+Supplier A,2200,23000.0,16.5
+Supplier B,800,16000.0,20.0
+Supplier C,600,9000.0,22.0

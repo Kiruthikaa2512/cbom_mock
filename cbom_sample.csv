@@ -1,0 +1,6 @@
+FBPN,Phase,Internal_Product_Line,External_Product_Line,Manufacturer,Manufacturer_PN,Supplier,GSM_Owner,Part_Category,Unit_Cost,Quantity,Lead_Time
+META001,EVT,Reality Labs,RayBan,Luxottica,RB001,Supplier A,Alice,Frame,12.5,1000,15
+META002,DVT,Reality Labs,Oculus,Foxconn,OC002,Supplier B,Bob,Lens,20,800,20
+META003,EVT,Reality Labs,Quest,BYD,Q003,Supplier A,Alice,Battery,8.75,1200,18
+META004,EVT,Reality Labs,Quest,Jabil,Q004,Supplier C,Carol,Housing,15,600,22
+META005,PVT,Reality Labs,RayBan,Luxottica,RB002,Supplier D,David,Frame,NaN,900,NaN
